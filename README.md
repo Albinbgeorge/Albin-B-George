@@ -1,4 +1,5 @@
 Timeline App
+
 header with logo and theme toggle
 nav(empty for now)for filter and placeholder
 section id="timeline" event marker will live
